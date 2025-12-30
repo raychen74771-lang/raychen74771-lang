@@ -61,6 +61,17 @@ Implements a "Financial Circuit Breaker" using deterministic Python logic.
 Vision: Transforming influencer selection from "Subjective Guesswork" to "Objective Audit".
 愿景：将达人筛选从“主观盲猜”转化为“客观审计”，实现资产的长期沉淀。
 
+<!-- 👇 KOL Video Insert Section Start -->
+<div align="center">
+  <a href="[https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Audit%20Pro_Demo.mp4" target="_blank">
+    <img src="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Cover.jpg" width="100%" alt="KOL Audit Pro Demo Video">
+  </a>
+  <p>👆 <strong>Click to Watch 60s AI Audit Demo | 点击观看 60秒 多模态审计演示</strong></p>
+</div>
+<!-- 👆 KOL Video Insert Section End -->
+
+<br>
+
 🏗️ System Architecture (系统架构图)
 ```mermaid
 graph TD
