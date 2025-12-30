@@ -10,6 +10,16 @@ Bridging the gap between messy business data and actionable AI insights.
 Note: This is a proprietary commercial project. The source code is private.
 注：本项目为私有商业架构，源码未公开。以下为系统核心逻辑与架构概览。
 
+<div align="center">
+  <a href="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/EcomAI_V6.5_Demo.mp4">
+    <img src="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/EcomAI_Cover.jpg" width="100%" alt="EcomAI Demo Video">
+  </a>
+  <p>👆 <strong>Click to Watch 90s Real-world Demo | 点击观看 90秒 实机演示</strong></p>
+</div>
+
+<br>
+
+
 🏗️ System Architecture (系统架构图)
 ```mermaid
 graph TD
