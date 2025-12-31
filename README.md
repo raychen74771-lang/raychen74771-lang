@@ -63,7 +63,7 @@ Vision: Transforming influencer selection from "Subjective Guesswork" to "Object
 
 <!-- 👇 KOL Video Insert Section Start -->
 <div align="center">
-  <a href="[https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/EcomAI_V6.5_Demo.mp4" target="_blank">
+  <a href="[https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Audit%20Pro_Demo.mp4" target="_blank">
     <img src="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Cover.jpg" width="100%" alt="KOL Audit Pro Demo Video">
   </a>
   <p>👆 <strong>Click to Watch 60s AI Audit Demo | 点击观看 60秒 多模态审计演示</strong></p>
