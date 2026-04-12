@@ -11,8 +11,8 @@ Note: This is a proprietary commercial project. The source code is private.
 注：本项目为私有商业架构，源码未公开。以下为系统核心逻辑与架构概览。
 
 <div align="center">
-  <a href="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/EcomAI_V6.5_Demo.mp4">
-    <img src="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/EcomAI_Cover.jpg" width="100%" alt="EcomAI Demo Video">
+  <a href="https://cdn.jsdelivr.net/gh/raychen74771-lang/Architect-Showcase@main/EcomAI_V6.5_Demo.mp4">
+    <img src="https://cdn.jsdelivr.net/gh/raychen74771-lang/Architect-Showcase@main/EcomAI_cover.jpeg" width="100%" alt="EcomAI Demo Video">
   </a>
   <p>👆 <strong>Click to Watch 90s Real-world Demo | 点击观看 90秒 实机演示</strong></p>
 </div>
@@ -63,8 +63,8 @@ Vision: Transforming influencer selection from "Subjective Guesswork" to "Object
 
 <!-- 👇 KOL Video Insert Section Start -->
 <div align="center">
-  <a href="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Audit%20Pro_Demo.mp4" target="_blank">
-    <img src="https://ray-portfolio.oss-cn-shanghai.aliyuncs.com/KOL%20Cover.jpg" width="100%" alt="KOL Audit Pro Demo Video">
+  <a href="https://cdn.jsdelivr.net/gh/raychen74771-lang/Architect-Showcase@main/KOL_Audit_Demo.mp4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/raychen74771-lang/Architect-Showcase@main/KOL_cover.jpeg" width="100%" alt="KOL Audit Pro Demo Video">
   </a>
   <p>👆 <strong>Click to Watch 60s AI Audit Demo | 点击观看 60秒 多模态审计演示</strong></p>
 </div>
