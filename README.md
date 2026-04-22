@@ -1,4 +1,4 @@
-Hi there, I'm Ray Chen 👋
+Hi there, I'm John 👋
 
 AI Solution Architect | E-commerce Domain Expert
 AI 解决方案架构师 | 电商领域专家
@@ -124,4 +124,4 @@ Synthesizes "Hard Metrics" (Entropy) and "Soft Vibe" (Visuals) to detect subtle 
  📫 Contact
 *   **Role**: Open to opportunities in **AI Architecture / Innovation Lead**.
 *   **Demo**: Available upon request for live demonstration (Private Deployment).
-*   **Email**: [点击发送邮件 / Click to Mail](mailto:raychen74771@gmail.com)
+*   **Email**: [点击发送邮件 / Click to Mail](mailto:johnsentinel@proton.me)
